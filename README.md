@@ -32,3 +32,4 @@ Digite o número da resposta: 1
 Amanda, você acertou 4 de 5 perguntas.
 Sua porcentagem de acertos foi: 80.00%
   ---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f1e48e3d-f120-4fa5-bdaf-eae8aa85dd29/deploy-status)](https://app.netlify.com/projects/quizinterativo-amandaoliveira/deploys)
